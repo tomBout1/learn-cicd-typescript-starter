@@ -23,6 +23,3 @@ jobs:
 
       - name: Run test
         run: npm run test
-
-      - name: Pass
-        run: (exit 0)
