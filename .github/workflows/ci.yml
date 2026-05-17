@@ -25,7 +25,7 @@ jobs:
         run: npm run test --coverage
 
 # Add new style job
-  style:
+  Style:
     name: Prettier Style check
     runs-on: ubuntu-latest
 
